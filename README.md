@@ -21,8 +21,9 @@ Finally, we search for a number using both Linear Search and Binary Search. For 
 
 ## File Structure 📂
 
-* `Labrep01.c` - The main source code answering the lab problem.
+* `Labrep-01.c` - The main source code answering the lab problem.
 * `README.md` - Documentation and instructions.
+* `casetest.txt` - Test Cases for the following Problem
 
 #Course: CSE 206 (Data Structure Lab)
 #Institution: Green University of Bangladesh
